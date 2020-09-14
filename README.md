@@ -40,12 +40,6 @@ My Tech Stacks
 <img src="https://raw.githubusercontent.com/souru98/souru98/master/assets/stack.svg" alt="stacks"/>
 </h3>
 
----
-
-
-### Connect with me @
-| [LinkedIn][linkedin] | [Twitter][twitter] | [Instagram][instagram] | [Facebook][facebook] |
-| [Portfolio][Portfolio]
 
 ---
 
@@ -58,3 +52,8 @@ My Tech Stacks
 [instagram]: https://www.instagram.com/dev_sourabh_k/
 [Portfolio]: https://confident-murdock-87aadb.netlify.app/
 
+---
+
+### Connect with me @
+| [LinkedIn][linkedin] | [Twitter][twitter] | [Instagram][instagram] | [Facebook][facebook] |
+| [Portfolio][Portfolio]
