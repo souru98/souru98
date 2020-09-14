@@ -19,9 +19,7 @@ My Tech Stacks
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/souru98/souru98/master/assets/stack.svg" alt="stacks"/>
 </h3>
-## Hi there, I am [Sourabh_Kulkarni][linkedin] 👋🏻
 
-![Hello World](https://drive.google.com/uc?export=view&id=1S3_UfDj6gqPCmzNd0enGJYQfq_zaM_nK)
 
 ---
 
