@@ -16,7 +16,7 @@ I'm Sourabh, a self-motivated tech enthusiast and full stack web developer.
 ---
 
 Electronics and Tele-Communication Graduate  (**B.E**) from Shivaji University.
-**Sitian**, **Student**, **Engineer** **Coder** **Developer**.
+**SiTian**, **Student**, **Engineer** **Coder** **Developer**.
 
 
 - 🔭 I’m currently working on **Azure Bot**.
