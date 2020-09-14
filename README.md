@@ -31,9 +31,21 @@ Social Media Handle : **Sourabh Kulkarni**.
 
 ---
 
+
+<h3 align="center">
+My Tech Stacks
+</h3>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/souru98/souru98/master/assets/stack.svg" alt="stacks"/>
+</h3>
+
+---
+
+
 ### Connect with me @
 | [LinkedIn][linkedin] | [Twitter][twitter] | [Instagram][instagram] | [Facebook][facebook] |
-| [Portfolio][Portfolio] | - | - | - |
+| [Portfolio][Portfolio]
 
 ---
 
@@ -44,14 +56,5 @@ Social Media Handle : **Sourabh Kulkarni**.
 [twitter]: https://twitter.com/s0urabh_k
 [facebook]: https://www.facebook.com/Souru.98
 [instagram]: https://www.instagram.com/dev_sourabh_k/
-[Portfolio]: Coming Soon
+[Portfolio]: https://confident-murdock-87aadb.netlify.app/
 
----
-
-<h3 align="center">
-My Tech Stacks
-</h3>
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/souru98/souru98/master/assets/stack.svg" alt="stacks"/>
-</h3>
