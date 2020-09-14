@@ -19,3 +19,39 @@ My Tech Stacks
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/souru98/souru98/master/assets/stack.svg" alt="stacks"/>
 </h3>
+## Hi there, I am [Sourabh_Kulkarni][linkedin] 👋🏻
+
+![Hello World](https://drive.google.com/uc?export=view&id=1S3_UfDj6gqPCmzNd0enGJYQfq_zaM_nK)
+
+---
+
+Electronics and Tele-Communication Graduate  (**B.E**) from Shivaji University.
+Sitian, Student, **Engineer** **Coder** **Developer**.
+**Competitive Programming Enthusiast**.
+**C/C++ | Data Structures | Algorithms**.
+Currently working on **Azure Bot Framework**.
+Participants of **Engineering Olympiad**.
+Social Media Handle : **Sourabh Kulkarni**.
+
+- 🔭 I’m currently working on **Azure Bot**.
+- 🌱 I’m currently learning **MERN,Python, Data Structures and Algorithms**.
+- 👯 I’m looking to collaborate on Different Project of **Web Development**.
+- 💬 Ask me about **Web Development**.
+- ⚡ Fun fact: I Loves To Play **Foot-Ball**.
+
+---
+
+### Connect with me @
+| [LinkedIn][linkedin] | [Twitter][twitter] | [Instagram][instagram] | [Facebook][facebook] |
+| [Portfolio][Portfolio] | - | - | - |
+
+---
+
+![Top skills](https://github-readme-stats.vercel.app/api/top-langs/?username=g1joshi&hide_border=true)
+![Jeevan's github stats](https://github-readme-stats.vercel.app/api?username=g1joshi&count_private=true&show_icons=true&hide_border=true)
+
+[linkedin]: https://www.linkedin.com/in/sourabh-kulkarni-068322173/
+[twitter]: https://twitter.com/s0urabh_k
+<!-- [instagram]: https://www.instagram.com/G1Joshi
+[facebook]: https://www.facebook.com/G1JoC -->
+[Portfolio]: Coming Soon
