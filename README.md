@@ -47,8 +47,8 @@ Social Media Handle : **Sourabh Kulkarni**.
 
 ---
 
-![Top skills](https://github-readme-stats.vercel.app/api/top-langs/?username=g1joshi&hide_border=true)
-![Jeevan's github stats](https://github-readme-stats.vercel.app/api?username=g1joshi&count_private=true&show_icons=true&hide_border=true)
+![Top skills](https://github-readme-stats.vercel.app/api/top-langs/?username=souru98&hide_border=true)
+![Jeevan's github stats](https://github-readme-stats.vercel.app/api?username=souru98&count_private=true&show_icons=true&hide_border=true)
 
 [linkedin]: https://www.linkedin.com/in/sourabh-kulkarni-068322173/
 [twitter]: https://twitter.com/s0urabh_k
