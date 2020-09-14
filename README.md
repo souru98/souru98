@@ -5,7 +5,7 @@ I'm Sourabh, a self-motivated tech enthusiast and full stack web developer.
 </p>
 
 <h4 align="center">
-💻 full stack developer <a href="https://github.com/souru98">@Sourabh</a> | 🌱 building  | 💬 connect <a href="https://twitter.com/s0urabh_k">@s0urabh_k</a>
+💻 full stack developer <a href="https://github.com/souru98">@Sourabh</a> | 🌱 building  **Azure Bot** | 💬 connect <a href="https://twitter.com/s0urabh_k">@s0urabh_k</a>
 </h4>
 <p  align="center">
 <a href="https://confident-murdock-87aadb.netlify.app/">Portfolio</a>
@@ -16,19 +16,8 @@ I'm Sourabh, a self-motivated tech enthusiast and full stack web developer.
 ---
 
 Electronics and Tele-Communication Graduate  (**B.E**) from Shivaji University.
-<br>
 Sitian, Student, **Engineer** **Coder** **Developer**.
-<br>
-**Web Development Enthusiast**.
-<br>
-**Data Structures | Algorithms**.
-<br>
-Currently working on **Azure Bot Framework**.
-<br>
-Participants of **Engineering Olympiad**.
-<br>
-Social Media Handle : **Sourabh Kulkarni**.
-<br>
+
 
 - 🔭 I’m currently working on **Azure Bot**.
 - 🌱 I’m currently learning **MERN,Python, Data Structures and Algorithms**.
