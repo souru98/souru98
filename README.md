@@ -32,7 +32,8 @@ I'm Sourabh, a Self-Motivated Tech Enthusiast and Full-Stack Web Developer.
 <p  align="center">
 <a href="https://confident-murdock-87aadb.netlify.app/">Portfolio</a>
 </p>
- 
+</div>
+
 Electronics and Tele-Communication Graduate  (**B.E**) from Shivaji University.
 **SiTian**, **Student**, **Engineer** **Coder** **Developer**.
 
@@ -43,7 +44,7 @@ Electronics and Tele-Communication Graduate  (**B.E**) from Shivaji University.
 - 💬 Ask me about **Web Development**.
 - ⚡ Fun fact: I Loves To Play **Foot-Ball**.
 
-</div>
+
 
 ---
 
