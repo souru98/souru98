@@ -11,17 +11,19 @@ div align="center">
 <div align="center">
 
 [![Twitter Link](https://img.shields.io/twitter/follow/s0urabh_k?color=1DA1F2&label=%40s0urabh_k&logo=Twitter&style=flat)](https://twitter.com/s0urabh_k)
+
 <!-- [![Dev.to link](https://img.shields.io/badge/dev.to/nirbhayvashisht%20-black.svg?&style=flat&logo=dev.to&logoColor=white)](https://dev.to/nirbhayvashisht) -->
+
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/sourabhkulkarni%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/sourabh-kulkarni-068322173/)
 [![Instagram Link](https://img.shields.io/badge/instagram.com/dev_sourabh_k%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev_sourabh_k/)
+
 <!-- [![Medium link](https://img.shields.io/badge/-medium.com/@nirbhayvashisht-black.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@nirbhayvashisht) -->
 </div>
-
 
 <!---------------------------------------------------------- About Me---------------------------------------------------->
 <div align="center">
   <h2>About Me</h2>
-  <p><p align="center">
+  <p align="center">
 I'm Sourabh, a Self-Motivated Tech Enthusiast and Full-Stack Web Developer.
 </p>
 
@@ -33,16 +35,14 @@ I'm Sourabh, a Self-Motivated Tech Enthusiast and Full-Stack Web Developer.
 </p>
 </div>
 
-Electronics and Tele-Communication Graduate  (**B.E**) from Shivaji University.
+Electronics and Tele-Communication Graduate (**B.E**) from Shivaji University.
 **SiTian**, **Student**, **Engineer** **Coder** **Developer**.
-
 
 - 🔭 I’m currently working on **Azure Bot**.
 - 🌱 I’m currently learning **MERN,Python, Data Structures and Algorithms**.
 - 👯 I’m looking to collaborate on Different Project of **Web Development**.
 - 💬 Ask me about **Web Development**.
 - ⚡ Fun fact: I Loves To Play **Foot-Ball**.
-
 
 <!-------------------------------------------------------Tools and Technologies----------------------------------------->
 
@@ -63,7 +63,7 @@ Electronics and Tele-Communication Graduate  (**B.E**) from Shivaji University.
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-<!------------------------------------------------------Experience----------------------------------->														
+<!------------------------------------------------------Experience----------------------------------->
 <h2>Experience</h2>
 <table>
   <thead align="center">
@@ -111,21 +111,22 @@ Electronics and Tele-Communication Graduate  (**B.E**) from Shivaji University.
 [twitter]: https://twitter.com/s0urabh_k
 [facebook]: https://www.facebook.com/Souru.98
 [instagram]: https://www.instagram.com/dev_sourabh_k/
-[Portfolio]: https://confident-murdock-87aadb.netlify.app/
+[portfolio]: https://confident-murdock-87aadb.netlify.app/
 
 <!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
 <br>
  <details>
   <summary>:zap: <b>Github Stats</b></summary>
 
-  [![Sourabh's github stats](https://github-readme-stats.vercel.app/api?username=souru98&show_icons=true)](https://github.com/souru98/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souru98&layout=compact&langs_count=6)](https://github.com/souru98/github-readme-stats)
+[![Sourabh's github stats](https://github-readme-stats.vercel.app/api?username=souru98&show_icons=true)](https://github.com/souru98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souru98&layout=compact&langs_count=6)](https://github.com/souru98/github-readme-stats)
+
 </details>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=souru98)
 
 ### Connect with me @
-| [LinkedIn][linkedin] | [Twitter][twitter] | [Instagram][instagram] | [Facebook][facebook] |
- [Portfolio][Portfolio] |
 
+| [LinkedIn][linkedin] | [Twitter][twitter] | [Instagram][instagram] | [Facebook][facebook] |
+[Portfolio][portfolio] |
