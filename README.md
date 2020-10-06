@@ -17,8 +17,8 @@
 <!-- [![Medium link](https://img.shields.io/badge/-medium.com/@nirbhayvashisht-black.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@nirbhayvashisht) -->
 </div>
 
-
 ---
+
 <!---------------------------------------------------------- About Me---------------------------------------------------->
 <div align="center">
   <h2>About Me</h2>
@@ -44,12 +44,11 @@ Electronics and Tele-Communication Graduate  (**B.E**) from Shivaji University.
 - 💬 Ask me about **Web Development**.
 - ⚡ Fun fact: I Loves To Play **Foot-Ball**.
 
-
-
 ---
+
 <!-------------------------------------------------------Tools and Technologies----------------------------------------->
 
-<h2>Tools and Technologies</h2>
+<!-- <h2>Tools and Technologies</h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-45b8d8?style=flat-square&logo=java&logoColor=white)
@@ -68,6 +67,16 @@ Electronics and Tele-Communication Graduate  (**B.E**) from Shivaji University.
 <!-- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=flat-square&logo=dart&logoColor=white") -->
 <!-- ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white) -->
 
+---
+
+<!-------------------------------------------------------------Licenses & Certification	----------------------------------------->
+<h2>Licenses & Certifications</h2>
+
+[![JavaScript Algorithms and Data Structures Certification](https://img.shields.io/badge/-JavaScript_Algorithms_and_Data_Structures-0A0A23?style=flat-square&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/certification/nirbhayvashisht/javascript-algorithms-and-data-structures)
+[![Java Online Course by Coding Blocks](https://img.shields.io/badge/-Java_Online_Course_by_Coding_Blocks-45b8d8?style=flat-square&logo=java&logoColor=white)](https://online.codingblocks.com/app/certificates/CBOL-21737-75ac)
+[![Premiere Pro 2020 Essential training](https://img.shields.io/badge/-Premiere_Pro_2020_Essential_Training-0077B5?style=flat-square&logo=linkedIn&logoColor=white)](https://github.com/nirbhayvashisht/nirbhayvashisht/blob/master/Certificates/CertificateOfCompletion_Premiere%20Pro%202020%20Essential%20Training.jpg)
+[![Networking Foundations: Networking Basics](https://img.shields.io/badge/-Networking_Foundations:_Networking_Basics-0077B5?style=flat-square&logo=linkedIn&logoColor=white)](https://github.com/nirbhayvashisht/nirbhayvashisht/blob/master/Certificates/CertificateOfCompletion_Networking%20Foundations_%20Networking%20Basics.jpg)
+[![Time Management Fundamentals](https://img.shields.io/badge/-Time_Management_Fundamentals-0077B5?style=flat-square&logo=linkedIn&logoColor=white)](https://github.com/nirbhayvashisht/nirbhayvashisht/blob/master/Certificates/CertificateOfCompletion_Time%20Management%20Fundamentals.jpg) -->
 
 ---
 
@@ -86,14 +95,14 @@ Electronics and Tele-Communication Graduate  (**B.E**) from Shivaji University.
   <tbody>
   <tr>
 	    <td><b>Developer</b></td>
-      <td><a href=="https://www.loyalytics.ai/">Loyalytics Consulting Llp</td>
+      <td><a href=="https://www.loyalytics.ai/">Loyalytics Consulting Llp</a></td>
       <td>Jun 2020</td>
       <td>Current</td>
       <td>-</td>
     </tr>
     <tr>
 	    <td><b>Intern</b></td>
-      <td><a href=="https://www.yokogawa.com/in/">Yokogawa India Ltd</td>
+      <td><a href=="https://www.yokogawa.com/in/">Yokogawa India Ltd</a></td>
       <td>Jun 2019</td>
       <td>Jul 2019</td>
       <td>1 Month</td>
@@ -110,12 +119,12 @@ Electronics and Tele-Communication Graduate  (**B.E**) from Shivaji University.
       <td><a href="http://www.ugarsugar.com/">Ugar Sugar Works Ltd</a></td>
       <td>Dec 2018</td>
       <td>Jan 2019</td>
-      <td>1mon</td>
+      <td>1 Month</td>
     </tr>
   </tbody>
 </table>
 
------
+---
 
 [linkedin]: https://www.linkedin.com/in/sourabh-kulkarni-068322173/
 [twitter]: https://twitter.com/s0urabh_k
@@ -124,18 +133,34 @@ Electronics and Tele-Communication Graduate  (**B.E**) from Shivaji University.
 [Portfolio]: https://confident-murdock-87aadb.netlify.app/
 
 ---
+
+
+<!--------------------------------------------------------Latest Blog Posts------------------------------------->
+<!-- <h2>Latest Posts</h2>
+<ul>
+<li><a href="https://dev.to/nirbhayvashisht/fundamentals-of-cloud-computing-5g4g"><b> ☁️ Fundamentals of Cloud Computing</b></a><br></li>
+<li><a href="https://dev.to/nirbhayvashisht/waking-up-early-in-the-morning-how-and-why-1eem"><b> 🌅 Waking Up Early in the Morning: Why and How</b></a><br></li>
+<li><a href="https://dev.to/nirbhayvashisht/burnout-as-a-developer-experience-symptoms-prevention-and-cure-20e2"><b> 🤯 Burnout as a Developer: Experience, Symptoms, Prevention and Cure</b></a><br></li>
+<li><a href="https://dev.to/nirbhayvashisht/introduction-to-git-and-github-4jg8"><b> 😄 Introduction to Git and GitHub</b></a><br></li>
+</ul> -->
+
+---
+
+<!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
+<br>
  <details>
   <summary>:zap: <b>Github Stats</b></summary>
 
   [![Sourabh's github stats](https://github-readme-stats.vercel.app/api?username=souru98&show_icons=true)](https://github.com/souru98/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souru98&layout=compact&langs_count=6)](https://github.com/souru98/github-readme-stats)
-
 </details>
+<br>
 
+---
 
 ![](https://komarev.com/ghpvc/?username=souru98)
 
-
+---
 
 ### Connect with me @
 | [LinkedIn][linkedin] | [Twitter][twitter] | [Instagram][instagram] | [Facebook][facebook] |
