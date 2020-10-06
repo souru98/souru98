@@ -98,7 +98,7 @@ Electronics and Tele-Communication Graduate  (**B.E**) from Shivaji University.
       <td>1 Month</td>
     </tr>
 		<tr>
-			<td><b>Implant Training</b></td>
+			<td><b>Implant Trainee</b></td>
       <td><a href="http://www.ugarsugar.com/">Ugar Sugar Works Ltd</a></td>
       <td>Dec 2018</td>
       <td>Jan 2019</td>
