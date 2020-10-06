@@ -59,11 +59,10 @@ My Tech Stacks
  <details>
   <summary>:zap: <b>Github Stats</b></summary>
 
-  [![Sourabh's github stats](https://github-readme-stats.souru98.vercel.app/api?username=souru98&show_icons=true)](https://github.com/souru98/github-readme-stats)
+  [![Sourabh's github stats](https://github-readme-stats.vercel.app/api?username=souru98&show_icons=true)](https://github.com/souru98/github-readme-stats)
   [![Top Langs](https://github-readme-stats.souru98.vercel.app/api/top-langs/?username=souru98&layout=compact&langs_count=6)](https://github.com/souru98/github-readme-stats)
 
 </details>
-
 
 
 ![](https://komarev.com/ghpvc/?username=souru98)
