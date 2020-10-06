@@ -1,6 +1,6 @@
 <!-------------------------------------------------------Hi there, I'm Sourabh------------------------------>
 <div align="center">
-  <h1>Hi there, I'm <a href="https://twitter.com/nirbhayvashisht" target="_blank">Sourabh</a> (He/Him/His) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <h1>Hi there, I'm <a href="https://twitter.com/s0urabh_k" target="_blank">Sourabh</a> (He/Him/His) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 div align="center">
   <h3>💻 Electronics & Tele-Communication Engineering Undergrad | :earth_asia: Kolhapur, India <h3>  
@@ -17,6 +17,7 @@ div align="center">
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/sourabhkulkarni%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/sourabh-kulkarni-068322173/)
 [![Instagram Link](https://img.shields.io/badge/instagram.com/dev_sourabh_k%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev_sourabh_k/)
 
+[![PortFolio Link](https://img.shields.io/badge/Portfolio/sourabhkulkarni%20-%230077B5.svg?&style=flat&logo=&logoColor=white")](https://confident-murdock-87aadb.netlify.app/)
 <!-- [![Medium link](https://img.shields.io/badge/-medium.com/@nirbhayvashisht-black.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@nirbhayvashisht) -->
 </div>
 
