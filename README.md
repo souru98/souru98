@@ -71,6 +71,52 @@ Electronics and Tele-Communication Graduate  (**B.E**) from Shivaji University.
 
 ---
 
+<!------------------------------------------------------Experience----------------------------------->														
+<h2>Experience</h2>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Role</b></td>
+      <td><b>Company</b></td>
+      <td><b>Start Date</b></td>
+      <td><b>End Date</b></td>
+      <td><b>Duration</b></td>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+	    <td><b>Developer</b></td>
+      <td><a href=="https://www.loyalytics.ai/">Loyalytics Consulting Llp</td>
+      <td>Jun 2020</td>
+      <td>Current</td>
+      <td>-</td>
+    </tr>
+    <tr>
+	    <td><b>Intern</b></td>
+      <td><a href=="https://www.yokogawa.com/in/">Yokogawa India Ltd</td>
+      <td>Jun 2019</td>
+      <td>Jul 2019</td>
+      <td>1 Month</td>
+    </tr>
+	  <tr>
+		  <td><b>Intern</b></td>
+      <td><a href="http://www.digitalcircuits.in/">Digital Circuits Pvt Ltd</a></td>
+      <td>May 2019</td>
+      <td>June 2020</td>
+      <td>1 Month</td>
+    </tr>
+		<tr>
+			<td><b>Implant Training</b></td>
+      <td><a href="http://www.ugarsugar.com/">Ugar Sugar Works Ltd</a></td>
+      <td>Dec 2018</td>
+      <td>Jan 2019</td>
+      <td>1mon</td>
+    </tr>
+  </tbody>
+</table>
+
+-----
+
 [linkedin]: https://www.linkedin.com/in/sourabh-kulkarni-068322173/
 [twitter]: https://twitter.com/s0urabh_k
 [facebook]: https://www.facebook.com/Souru.98
