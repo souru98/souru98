@@ -54,3 +54,12 @@ My Tech Stacks
 ### Connect with me @
 | [LinkedIn][linkedin] | [Twitter][twitter] | [Instagram][instagram] | [Facebook][facebook] |
  [Portfolio][Portfolio] |
+
+
+ <details>
+  <summary>:zap: <b>Github Stats</b></summary>
+
+  [![nirbhayvashisht's github stats](https://github-readme-stats.nirbhayvashisht.vercel.app/api?username=nirbhayvashisht&show_icons=true)](https://github.com/souru98/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.nirbhayvashisht.vercel.app/api/top-langs/?username=nirbhayvashisht&layout=compact&langs_count=6)](https://github.com/souru98/github-readme-stats)
+
+</details>
