@@ -48,7 +48,7 @@ Electronics and Tele-Communication Graduate  (**B.E**) from Shivaji University.
 
 <!-------------------------------------------------------Tools and Technologies----------------------------------------->
 
-<!-- <h2>Tools and Technologies</h2>
+<h2>Tools and Technologies</h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-45b8d8?style=flat-square&logo=java&logoColor=white)
@@ -64,13 +64,13 @@ Electronics and Tele-Communication Graduate  (**B.E**) from Shivaji University.
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure&logoColor=white)
-<!-- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=flat-square&logo=dart&logoColor=white") -->
-<!-- ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white) -->
+<!-- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=flat-square&logo=dart&logoColor=white")
+![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
 
 ---
 
 <!-------------------------------------------------------------Licenses & Certification	----------------------------------------->
-<h2>Licenses & Certifications</h2>
+<!-- <h2>Licenses & Certifications</h2>
 
 [![JavaScript Algorithms and Data Structures Certification](https://img.shields.io/badge/-JavaScript_Algorithms_and_Data_Structures-0A0A23?style=flat-square&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/certification/nirbhayvashisht/javascript-algorithms-and-data-structures)
 [![Java Online Course by Coding Blocks](https://img.shields.io/badge/-Java_Online_Course_by_Coding_Blocks-45b8d8?style=flat-square&logo=java&logoColor=white)](https://online.codingblocks.com/app/certificates/CBOL-21737-75ac)
