@@ -78,14 +78,14 @@ Electronics and Tele-Communication Graduate (**B.E**) from Shivaji University.
   <tbody>
   <tr>
 	    <td><b>Developer</b></td>
-      <td><a href=="http://www.loyalytics.ai/">Loyalytics Consulting Llp</a></td>
+      <td><a href="http://www.loyalytics.ai/">Loyalytics Consulting Llp</a></td>
       <td>Jun 2020</td>
       <td>Current</td>
       <td>-</td>
     </tr>
     <tr>
 	    <td><b>Intern</b></td>
-      <td><a href=="http://www.yokogawa.com/in/">Yokogawa India Ltd</a></td>
+      <td><a href="http://www.yokogawa.com/in/">Yokogawa India Ltd</a></td>
       <td>Jun 2019</td>
       <td>Jul 2019</td>
       <td>1 Month</td>
