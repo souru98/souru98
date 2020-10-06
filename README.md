@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://twitter.com/s0urabh_k" target="_blank">Sourabh</a> (He/Him/His) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
-div align="center">
+<div align="center">
   <h3>💻 Electronics & Tele-Communication Engineering Undergrad | :earth_asia: Kolhapur, India <h3>  
 </div
 
