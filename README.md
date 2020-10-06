@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Twitter Link](https://img.shields.io/twitter/follow/nirbhayvashisht?color=1DA1F2&label=%40s0urabh_k&logo=Twitter&style=flat)](https://twitter.com/s0urabh_k)
+[![Twitter Link](https://img.shields.io/twitter/follow/s0urabh_k?color=1DA1F2&label=%40s0urabh_k&logo=Twitter&style=flat)](https://twitter.com/s0urabh_k)
 <!-- [![Dev.to link](https://img.shields.io/badge/dev.to/nirbhayvashisht%20-black.svg?&style=flat&logo=dev.to&logoColor=white)](https://dev.to/nirbhayvashisht) -->
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/sourabh-kulkarni-068322173%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/sourabh-kulkarni-068322173/)
 [![Instagram Link](https://img.shields.io/badge/instagram.com/dev_sourabh_k%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev_sourabh_k/)
