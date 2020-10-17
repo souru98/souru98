@@ -12,7 +12,7 @@
 
 [![Twitter Link](https://img.shields.io/twitter/follow/s0urabh_k?color=1DA1F2&label=%40s0urabh_k&logo=Twitter&style=flat)](https://twitter.com/s0urabh_k)
 
-[![PortFolio Link](https://img.shields.io/badge/Portfolio/sourabhkulkarni%20-%230077B5.svg?&style=flat&logo=codepen&logoColor=white")](https://confident-murdock-87aadb.netlify.app/)
+[![PortFolio Link](https://img.shields.io/badge/Portfolio/sourabhkulkarni%20-%230077B5.svg?&style=flat&logo=codepen&logoColor=white")](https://confident-lovelace-566c5a.netlify.app/)
 
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/sourabhkulkarni%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/sourabh-kulkarni-068322173/)
 [![Instagram Link](https://img.shields.io/badge/instagram.com/dev_sourabh_k%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev_sourabh_k/)
@@ -31,7 +31,7 @@ I'm Sourabh, a Self-Motivated Tech Enthusiast and Full-Stack Web Developer.
 💻 Full-Stack Web Developer <a href="https://github.com/souru98">@Sourabh</a> | 🌱 building  Azure Bot | 💬 connect <a href="https://twitter.com/s0urabh_k">@s0urabh_k</a>
 </h4>
 <p  align="center">
-<a href="https://confident-murdock-87aadb.netlify.app/">Portfolio</a>
+<a href="https://confident-lovelace-566c5a.netlify.app/">Portfolio</a>
 </p>
 </div>
 
@@ -111,7 +111,7 @@ Electronics and Tele-Communication Graduate (**B.E**) from Shivaji University.
 [twitter]: https://twitter.com/s0urabh_k
 [facebook]: https://www.facebook.com/Souru.98
 [instagram]: https://www.instagram.com/dev_sourabh_k/
-[portfolio]: https://confident-murdock-87aadb.netlify.app/
+[portfolio]: https://confident-lovelace-566c5a.netlify.app
 
 <!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
 <br>
