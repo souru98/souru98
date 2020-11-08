@@ -26,7 +26,7 @@ I'm Sourabh, a Self-Motivated Tech Enthusiast and Full-Stack Web Developer.
 </p>
 
 <h4 align="center">
-💻 Full-Stack Web Developer <a href="https://github.com/souru98">@Sourabh</a> | 🌱 building Htl2pdf Converter Using Azur Function  | 💬 connect <a href="https://twitter.com/s0urabh_k">@s0urabh_k</a>
+💻 Full-Stack Web Developer | 🌱 Building **Htl2pdf Converter Using Azur Function**  | 💬 connect <a href="https://twitter.com/s0urabh_k">@s0urabh_k</a>
 </h4>
 <p  align="center">
 <!-- <a href="https://skprofile.herokuapp.com/">Portfolio</a> -->
@@ -34,7 +34,7 @@ I'm Sourabh, a Self-Motivated Tech Enthusiast and Full-Stack Web Developer.
 </div>
 
 Electronics and Tele-Communication Graduate (**B.E**) from Shivaji University.
-**SiTian**, **Student**, **Engineer** **Coder** **Developer**.
+**SiTian** **Student** **Engineer** **Coder** **Developer**.
 
 - 🔭 I’m currently working on **Azure Function**.
 - 🌱 I’m currently learning **MERN,Python, Data Structures and Algorithms**.
