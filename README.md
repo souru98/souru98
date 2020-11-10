@@ -60,6 +60,7 @@ Electronics and Tele-Communication Graduate (**B.E**) from Shivaji University.
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Php](https://img.shields.io/badge/-php-45b8d8?style=flat-square&logo=php&logoColor=white)
 
 <!------------------------------------------------------Experience----------------------------------->
 <h2>Experience</h2>
