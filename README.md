@@ -17,7 +17,6 @@
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/sourabhkulkarni%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/sourabh-kulkarni-068322173/)
 [![Instagram Link](https://img.shields.io/badge/instagram.com/dev_sourabh_k%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev_sourabh_k/)
 
-
 <!---------------------------------------------------------- About Me---------------------------------------------------->
 <div align="center">
   <h2>About Me</h2>
@@ -80,6 +79,13 @@ Electronics and Tele-Communication Graduate (**B.E**) from Shivaji University.
       <td><a href="http://www.loyalytics.ai/">Loyalytics Consulting Llp</a></td>
       <td>Jun 2020</td>
       <td>Current</td>
+      <td>-</td>
+    </tr>
+    <tr>
+	    <td><b>Intern</b></td>
+      <td><a href="https://sastratechnologies.in/">Sastra Technologies Pvt. Ltd.</a></td>
+      <td>Mar 2020</td>
+      <td>Jun 2020</td>
       <td>-</td>
     </tr>
     <tr>
