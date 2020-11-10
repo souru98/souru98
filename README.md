@@ -86,7 +86,7 @@ Electronics and Tele-Communication Graduate (**B.E**) from Shivaji University.
       <td><a href="https://sastratechnologies.in/">Sastra Technologies Pvt. Ltd.</a></td>
       <td>Mar 2020</td>
       <td>Jun 2020</td>
-      <td>-</td>
+      <td>3 Months</td>
     </tr>
     <tr>
 	    <td><b>Intern</b></td>
