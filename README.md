@@ -35,8 +35,8 @@ I'm Sourabh, a Self-Motivated Tech Enthusiast and Full-Stack Web Developer.
 Electronics and Tele-Communication Graduate (**B.E**) from Shivaji University.
 **SiTian** **Student** **Engineer** **Coder** **Developer**.
 
-- 🔭 I’m currently working on **Azure Function**.
-- 🌱 I’m currently learning **MERN, Python, Data Structures and Algorithms**.
+- 🔭 I’m currently working on **Python Learning & Angular Project**.
+- 🌱 I’m currently learning **Python for DataScience**.
 - 👯 I’m looking to collaborate on Different Project of **Web Development**.
 - 💬 Ask me about **Web Development**.
 - ⚡ Fun fact: I Loves To Play **Foot-Ball**.
