@@ -65,7 +65,7 @@ Electronics and Tele-Communication Graduate (**B.E**) from Shivaji University.
 
 <!------------------------------------------------------Experience----------------------------------->
 <h2>Experience</h2>
-<table style="background-color=30,e96443,904e95&title-color=fff&text-color=fff;">
+<table style="background-color:30,e96443,904e95&title-color:fff&text-color:fff;">
   <thead align="center">
     <tr border: none;>
       <td><b>Role</b></td>
