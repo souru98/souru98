@@ -21,11 +21,11 @@
 <div align="center">
   <h2>About Me</h2>
   <p align="center">
-I'm Sourabh, a Self-Motivated Tech Enthusiast and Full-Stack Web Developer.
+I'm Sourabh, a Full Stack Developer and to be a upcoming Data Scientist .
 </p>
 
 <h4 align="center">
-💻 Full-Stack Web Developer | 🌱 Building 𝗛𝘁𝗹𝟮𝗽𝗱𝗳 𝗖𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗿 𝗨𝘀𝗶𝗻𝗴 𝗔𝘇𝘂𝗿 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻  | 💬 connect <a href="https://twitter.com/s0urabh_k">@s0urabh_k</a>
+💻 Full-Stack Web Developer | 🌱 Building -----  | 💬 connect <a href="https://twitter.com/s0urabh_k">@s0urabh_k</a>
 </h4>
 <p  align="center">
 <!-- <a href="https://skprofile.herokuapp.com/">Portfolio</a> -->
@@ -37,7 +37,7 @@ Electronics and Tele-Communication Graduate (**B.E**) from Shivaji University.
 
 - 🔭 I’m currently working on **Python Learning & Angular Project**.
 - 🌱 I’m currently learning **Python for DataScience**.
-- 👯 I’m looking to collaborate on Different Project of **Web Development**.
+- 👯 I’m looking to collaborate on Different Project of **Web Development & DataScience** .
 - 💬 Ask me about **Web Development**.
 - ⚡ Fun fact: I Loves To Play **Foot-Ball**.
 
