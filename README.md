@@ -10,7 +10,7 @@
  <div>
 <!-------------------------------------------------------Tools and Technologies----------------------------------------->
 
-<h2 align ="center">Tools and Technologies</h2>
+<h1 align ="center">Tools and Technologies</h1>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-45b8d8?style=flat-square&logo=java&logoColor=white)
@@ -31,7 +31,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=spring&logoColor=white)
 
 <!------------------------------------------------------Experience----------------------------------->
-<h2>Experience</h2>
+<h1>Experience</h1>
 <table>
   <thead align="center">
     <tr border: none;>
