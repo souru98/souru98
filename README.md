@@ -2,11 +2,6 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://twitter.com/s0urabh_k" target="_blank">Sourabh</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
-<div align="center">
-	<h3>💻 ETC Engineer ==> ⭕Full Stack Developer  ==> To Be Data Analyst 📊 </h3>
-        <h3>:earth_asia: Kolhapur, India </h3>  
- <div>
-
 <!----------------------------------------------------Social links------------------------------------------->
 
 [![Twitter Link](https://img.shields.io/twitter/follow/s0urabh_k?color=1DA1F2&label=%40s0urabh_k&logo=Twitter&style=flat)](https://twitter.com/s0urabh_k)
@@ -14,6 +9,11 @@
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/sourabhkulkarni%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/sourabh-kulkarni-068322173/)
 [![Instagram Link](https://img.shields.io/badge/instagram.com/dev_sourabh_k%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev_sourabh_k/)
 
+<!-------------------------------------------------------About----------------------------------------->
+<div align="center">
+	<h3>💻 ETC Engineer ==> ⭕Full Stack Developer  ==> To Be Data Analyst 📊 </h3>
+        <h3>:earth_asia: Belagavi, India </h3>  
+ <div>
 <!-------------------------------------------------------Tools and Technologies----------------------------------------->
 
 <h2 align ="center">Tools and Technologies</h2>
