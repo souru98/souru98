@@ -18,28 +18,7 @@
 [![Instagram Link](https://img.shields.io/badge/instagram.com/dev_sourabh_k%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev_sourabh_k/)
 
 <!---------------------------------------------------------- About Me---------------------------------------------------->
-<div align="center">
-  <h2>About Me</h2>
-  <p align="center">
-I'm Sourabh, a Full Stack Developer and to be a upcoming Data Scientist .
-</p>
 
-<h4 align="center">
-💻 Full-Stack Web Developer | 🌱 Building -----  | 💬 connect <a href="https://twitter.com/s0urabh_k">@s0urabh_k</a>
-</h4>
-<p  align="center">
-<!-- <a href="https://skprofile.herokuapp.com/">Portfolio</a> -->
-</p>
-</div>
-
-Electronics and Tele-Communication Graduate (**B.E**) from Shivaji University.
-**SiTian** **Student** **Engineer** **Coder** **Developer**.
-
-- 🔭 I’m currently working on **Python Learning & Angular Project**.
-- 🌱 I’m currently learning **Python for DataScience**.
-- 👯 I’m looking to collaborate on Different Project of **Web Development & DataScience** .
-- 💬 Ask me about **Web Development**.
-- ⚡ Fun fact: I Loves To Play **Foot-Ball**.
 
 <!-------------------------------------------------------Tools and Technologies----------------------------------------->
 
