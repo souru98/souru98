@@ -9,6 +9,7 @@
         <h4>:earth_asia: Belagavi, India </h4>  
  <div>
 <!-------------------------------------------------------Tools and Technologies----------------------------------------->
+<br>
 
 <h1 align ="center">Tools and Technologies</h1>
 
@@ -84,7 +85,7 @@
 <!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
 <br>
  <details>
-  <summary>:zap: <b>Github Stats</b></summary>
+	<summary>:zap: <b>Github Stats</b></summary>
 
 [![Sourabh's github stats](https://github-readme-stats.vercel.app/api?username=souru98&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/souru98/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souru98&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/souru98/github-readme-stats)
@@ -93,7 +94,7 @@
 
 ![](https://komarev.com/ghpvc/?username=souru98)
 
-### Connect with me @
+# Connect with me @
 <!----------------------------------------------------Social links------------------------------------------->
 
 [![Twitter Link](https://img.shields.io/twitter/follow/s0urabh_k?color=1DA1F2&label=%40s0urabh_k&logo=Twitter&style=flat)](https://twitter.com/s0urabh_k)
