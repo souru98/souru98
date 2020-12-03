@@ -4,7 +4,7 @@
 </div>
 <div align="center">
   <h3>💻 ETC Engineer ==> ⭕Full Stack Developer  ==> To Be Data Analyst 📊| :earth_asia: Kolhapur, India <h3>  
- </div>
+ <div>
 
 <!----------------------------------------------------Social links------------------------------------------->
 
@@ -15,7 +15,7 @@
 
 <!-------------------------------------------------------Tools and Technologies----------------------------------------->
 
-<h2>Tools and Technologies</h2>
+<h2 align ="center">Tools and Technologies</h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-45b8d8?style=flat-square&logo=java&logoColor=white)
