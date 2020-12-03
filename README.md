@@ -2,12 +2,6 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://twitter.com/s0urabh_k" target="_blank">Sourabh</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
-<!----------------------------------------------------Social links------------------------------------------->
-
-[![Twitter Link](https://img.shields.io/twitter/follow/s0urabh_k?color=1DA1F2&label=%40s0urabh_k&logo=Twitter&style=flat)](https://twitter.com/s0urabh_k)
-[![PortFolio Link](https://img.shields.io/badge/Portfolio/sourabhkulkarni%20-%230077B5.svg?&style=flat&logo=codepen&logoColor=white")](https://skprofile.herokuapp.com/)
-[![LinkedIn Link](https://img.shields.io/badge/linkedin/in/sourabhkulkarni%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/sourabh-kulkarni-068322173/)
-[![Instagram Link](https://img.shields.io/badge/instagram.com/dev_sourabh_k%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev_sourabh_k/)
 
 <!-------------------------------------------------------About----------------------------------------->
 <div align="center">
@@ -106,6 +100,10 @@
 ![](https://komarev.com/ghpvc/?username=souru98)
 
 ### Connect with me @
+<!----------------------------------------------------Social links------------------------------------------->
 
-| [LinkedIn][linkedin] | [Twitter][twitter] | [Instagram][instagram] | [Facebook][facebook] |
-[Portfolio][portfolio] |
+[![Twitter Link](https://img.shields.io/twitter/follow/s0urabh_k?color=1DA1F2&label=%40s0urabh_k&logo=Twitter&style=flat)](https://twitter.com/s0urabh_k)
+[![PortFolio Link](https://img.shields.io/badge/Portfolio/sourabhkulkarni%20-%230077B5.svg?&style=flat&logo=codepen&logoColor=white")](https://skprofile.herokuapp.com/)
+[![LinkedIn Link](https://img.shields.io/badge/linkedin/in/sourabhkulkarni%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/sourabh-kulkarni-068322173/)
+[![Instagram Link](https://img.shields.io/badge/instagram.com/dev_sourabh_k%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev_sourabh_k/)
+[![Facebook Link](https://img.shields.io/badge/facebook.com/Souru.98%20-%23E4405F.svg?&style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/Souru.98)
