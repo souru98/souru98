@@ -5,8 +5,8 @@
 
 <!-------------------------------------------------------About----------------------------------------->
 <div align="center">
-	<h3>💻 ETC Engineer ==> ⭕Full Stack Developer  ==> To Be Data Analyst 📊 </h3>
-        <h3>:earth_asia: Belagavi, India </h3>  
+	<h4>💻 ETC Engineer ==> ⭕Full Stack Developer  ==> To Be Data Analyst 📊 </h4>
+        <h4>:earth_asia: Belagavi, India </h4>  
  <div>
 <!-------------------------------------------------------Tools and Technologies----------------------------------------->
 
@@ -80,13 +80,6 @@
     </tr>
   </tbody>
 </table>
-
-[linkedin]: https://www.linkedin.com/in/sourabh-kulkarni-068322173/
-[twitter]: https://twitter.com/s0urabh_k
-[facebook]: https://www.facebook.com/Souru.98
-[instagram]: https://www.instagram.com/dev_sourabh_k/
-[portfolio]: https://skprofile.herokuapp.com/
-
 <!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
 <br>
  <details>
