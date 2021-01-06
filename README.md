@@ -45,12 +45,19 @@
     </tr>
   </thead>
   <tbody>
+	  <tr>
+	    <td><b>Data Scientist</b></td>
+      <td><a href="https://www.iqvia.com/locations/india">Iqvia</a></td>
+      <td>Jan 2021</td>
+      <td>Current</td>
+      <td>-</td>
+    </tr>
   <tr>
 	    <td><b>Developer</b></td>
       <td><a href="http://www.loyalytics.ai/">Loyalytics Consulting Llp</a></td>
       <td>Jun 2020</td>
-      <td>Current</td>
-      <td>-</td>
+      <td>Dec 2020</td>
+      <td>7 Months</td>
     </tr>
     <tr>
 	    <td><b>Intern</b></td>
