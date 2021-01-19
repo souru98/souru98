@@ -107,5 +107,4 @@
 [![Twitter Link](https://img.shields.io/twitter/follow/s0urabh_k?color=1DA1F2&label=%40s0urabh_k&logo=Twitter&style=flat)](https://twitter.com/s0urabh_k)
 [![PortFolio Link](https://img.shields.io/badge/Portfolio/sourabhkulkarni%20-%230077B5.svg?&style=flat&logo=codepen&logoColor=white")](http://sourab.me/Profile/)
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/sourabhkulkarni%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/sourab-kulkarni/)
-[![Instagram Link](https://img.shields.io/badge/instagram.com/dev_sourabh_k%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev_sourabh_k/)
 [![Facebook Link](https://img.shields.io/badge/facebook.com/Souru.98%20-%230077B5.svg?&style=flat&logo=Facebook&logoColor=black)](https://www.facebook.com/Souru.98)
