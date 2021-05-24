@@ -66,28 +66,7 @@
       <td>Jun 2020</td>
       <td>3 Months</td>
     </tr>
-    <tr>
-	    <td><b>Intern</b></td>
-      <td><a href="http://www.yokogawa.com/in/">Yokogawa India Ltd</a></td>
-      <td>Jun 2019</td>
-      <td>Jul 2019</td>
-      <td>1 Month</td>
-    </tr>
-	  <tr>
-		  <td><b>Intern</b></td>
-      <td><a href="http://www.digitalcircuits.in/">Digital Circuits Pvt Ltd</a></td>
-      <td>May 2019</td>
-      <td>June 2020</td>
-      <td>1 Month</td>
-    </tr>
-		<tr>
-			<td><b>Implant Trainee</b></td>
-      <td><a href="http://www.ugarsugar.com/">Ugar Sugar Works Ltd</a></td>
-      <td>Dec 2018</td>
-      <td>Jan 2019</td>
-      <td>1 Month</td>
-    </tr>
-  </tbody>
+     </tbody>
 </table>
 <!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
 <br>
