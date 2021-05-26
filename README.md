@@ -21,7 +21,6 @@
 ![MySql](https://img.shields.io/badge/-MySql-005b87?style=flat-square&logo=mysql&logoColor=skyblue)
 ![Node.js](https://img.shields.io/badge/-Nodejs-76ae5c?style=flat-square&logo=nodejs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-fed848?style=flat-square&logo=python&logoColor=blue)
 ![VueJs](https://img.shields.io/badge/-VueJs-darkgreen?style=flat-square&logo=vue3&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-darkred?style=flat-square&logo=angular&logoColor=white)
