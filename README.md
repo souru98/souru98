@@ -75,8 +75,8 @@
  <details>
 	<summary>:zap: <b>Github Stats</b></summary>
 
-[![Sourabh's github stats](https://github-readme-stats.vercel.app/api?username=souru98&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/souru98/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souru98&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/souru98/github-readme-stats)
+![Sourabh's github stats](https://github-readme-stats.vercel.app/api?username=souru98&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souru98&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) 
 </details>
 <br>
 
