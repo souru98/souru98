@@ -75,7 +75,9 @@
  <details>
 	<summary>:zap: <b>Github Stats</b></summary>
 
-![Sourabh's github stats](https://github-readme-stats.vercel.app/api?username=souru98&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![
+	 
+	 h's github stats](https://github-readme-stats.vercel.app/api?username=souru98&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souru98&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) 
 </details>
 <br>
@@ -86,6 +88,6 @@
 <!----------------------------------------------------Social links------------------------------------------->
 
 [![Twitter Link](https://img.shields.io/twitter/follow/s0urabh_k?color=1DA1F2&label=%40s0urabh_k&logo=Twitter&style=flat)](https://twitter.com/s0urabh_k)
-[![PortFolio Link](https://img.shields.io/badge/Portfolio/sourabhkulkarni%20-%230077B5.svg?&style=flat&logo=codepen&logoColor=white")](http://sourab.me/Profile/)
+[![PortFolio Link](https://img.shields.io/badge/Portfolio/sourabhkulkarni%20-%230077B5.svg?&style=flat&logo=codepen&logoColor=white")](https://sourabhprofile.netlify.app/)
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/sourabhkulkarni%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/sourab-kulkarni/)
 [![Facebook Link](https://img.shields.io/badge/facebook.com/Souru.98%20-%230077B5.svg?&style=flat&logo=Facebook&logoColor=black)](https://www.facebook.com/Souru.98)
