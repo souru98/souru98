@@ -5,7 +5,7 @@
 
 <!-------------------------------------------------------About----------------------------------------->
 <div align="center">
-	<h4>💻 ETC Engineer ==> ⭕Full Stack Developer  ==> To Be Data Scientist 📊 </h4>
+	<h4>Electronics and Telecommunication Engineer by degree, Software Developer by profession 💻👨‍💻</h4>
         <h4>:earth_asia: Belagavi, India </h4>  
  <div>
 <!-------------------------------------------------------Tools and Technologies----------------------------------------->
